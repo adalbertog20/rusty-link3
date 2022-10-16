@@ -1,0 +1,26 @@
+body {
+  font-family: "JetBrains Mono";
+  color: green;
+  background-color: black;
+}
+button {
+  background-color: black;
+  margin: 10px;
+  height: 50px;
+  width: 200px;
+  border: 1px solid green;
+  color: green;
+  font-size: 30px;
+  font-family: "JetBrains Mono";
+}
+
+.container {
+  padding: 20px;
+  background-color: black;
+  margin: auto;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
